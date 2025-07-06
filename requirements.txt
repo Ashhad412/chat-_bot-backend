@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-datastax-driver
+cassandra-driver
 python-dotenv
 openai
