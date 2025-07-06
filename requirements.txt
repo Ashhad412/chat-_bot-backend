@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+datastax-driver
+python-dotenv
+openai
